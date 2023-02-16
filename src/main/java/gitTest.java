@@ -4,5 +4,6 @@ public class gitTest {
 
         System.out.println("第二次修改");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
